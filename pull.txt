@@ -2,3 +2,4 @@ The command git commit -a first looks at your
 orking tree, notices that you have modified hello.c 
 and removed goodbye.c, and performs necessary git add and git ...
 hello added
+hi 
